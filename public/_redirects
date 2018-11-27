@@ -1,6 +1,12 @@
 # We've relocated our billing info to the main site from the Engine docs
 /docs/engine/billing.html https://www.apollographql.com/plans
 
+# Moved the content of /docs/engine/reference to the Platform docs at /docs/engine-guide
+/docs/engine/accounts.html /docs/references/apollo-engine.html#accounts
+/docs/engine/services.html /docs/references/apollo-engine.html#services
+/docs/engine/data-privacy.html /docs/references/apollo-engine.html#data-privacy
+/docs/engine/gdpr.html
+
 # This is for an early version the Engine documentation.
 http://engine-docs.apollographql.com/docs/engine/* https://www.apollographql.com/docs/engine/:splat 301!
 https://engine-docs.apollographql.com/docs/engine/* https://www.apollographql.com/docs/engine/:splat 301!

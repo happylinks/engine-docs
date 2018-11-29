@@ -5,7 +5,7 @@
 /docs/engine/accounts.html /docs/references/apollo-engine.html#accounts
 /docs/engine/services.html /docs/references/apollo-engine.html#services
 /docs/engine/data-privacy.html /docs/references/apollo-engine.html#data-privacy
-/docs/engine/gdpr.html
+/docs/engine/gdpr.html /docs/references/apollo-engine#gdpr
 
 # This is for an early version the Engine documentation.
 http://engine-docs.apollographql.com/docs/engine/* https://www.apollographql.com/docs/engine/:splat 301!

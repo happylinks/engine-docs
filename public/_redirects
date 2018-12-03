@@ -7,6 +7,10 @@
 /docs/engine/data-privacy.html /docs/references/apollo-engine.html#data-privacy
 /docs/engine/gdpr.html /docs/references/apollo-engine#gdpr
 
+# Moved the content of the Integrations section to the Platform docs
+/docs/engine/integrations/datadog.html /docs/platform/integrations.html#datadog
+/docs/engine/integrations/slack.html /docs/platform/integrations.html#slack
+
 # This is for an early version the Engine documentation.
 http://engine-docs.apollographql.com/docs/engine/* https://www.apollographql.com/docs/engine/:splat 301!
 https://engine-docs.apollographql.com/docs/engine/* https://www.apollographql.com/docs/engine/:splat 301!

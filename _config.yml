@@ -12,9 +12,6 @@ sidebar_categories:
     - features/query-tracing
     - features/error-tracking
     - features/alerts
-  Integrations:
-    - integrations/slack
-    - integrations/datadog
   Engine Proxy:
     - apollo-tracing
     - setup-node

@@ -13,16 +13,8 @@ sidebar_categories:
     - features/error-tracking
     - features/alerts
   Engine Proxy:
-    - apollo-tracing
-    - setup-node
-    - setup-standalone
-    - setup-heroku
-    - setup-lambda
-    - setup-virtual
     - proxy/guides
-    - proxy/release-notes
     - proxy/troubleshooting
-    - proxy-config
     - 1.0-migration
 
 github_repo: apollographql/engine-docs

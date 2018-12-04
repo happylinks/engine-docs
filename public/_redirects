@@ -11,6 +11,14 @@
 /docs/engine/integrations/datadog.html /docs/platform/integrations.html#datadog
 /docs/engine/integrations/slack.html /docs/platform/integrations.html#slack
 
+# Moved all the content of the Proxy docs to the Platform docs
+/docs/engine/proxy/release-notes.html /docs/references/release-notes.html
+/docs/engine/proxy-config.html /docs/references/proxy-config.html
+/docs/engine/setup-lambda.html /docs/references/engine-proxy.html#serverless
+/docs/engine/setup-virtual.html /docs/references/engine-proxy.html#platform-as-a-service
+/docs/engine/setup-standalone.html /docs/references/engine-proxy.html#standalone-proxy-with-node
+/docs/engine/setup-node.html /docs/references/engine-proxy.html#proxy-with-apollo-server
+
 # This is for an early version the Engine documentation.
 http://engine-docs.apollographql.com/docs/engine/* https://www.apollographql.com/docs/engine/:splat 301!
 https://engine-docs.apollographql.com/docs/engine/* https://www.apollographql.com/docs/engine/:splat 301!

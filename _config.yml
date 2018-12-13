@@ -13,7 +13,6 @@ sidebar_categories:
     - features/error-tracking
     - features/alerts
   Engine Proxy:
-    - proxy/guides
     - proxy/troubleshooting
     - 1.0-migration
 

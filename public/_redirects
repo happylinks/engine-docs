@@ -18,6 +18,7 @@
 /docs/engine/setup-virtual.html /docs/references/engine-proxy.html#platform-as-a-service
 /docs/engine/setup-standalone.html /docs/references/engine-proxy.html#standalone-proxy-with-node
 /docs/engine/setup-node.html /docs/references/engine-proxy.html#proxy-with-apollo-server
+/docs/engine/proxy/guides.html /docs/references/engine-proxy.html#Feature-configuration
 
 # This is for an early version the Engine documentation.
 http://engine-docs.apollographql.com/docs/engine/* https://www.apollographql.com/docs/engine/:splat 301!

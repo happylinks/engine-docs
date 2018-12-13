@@ -12,8 +12,6 @@ sidebar_categories:
     - features/query-tracing
     - features/error-tracking
     - features/alerts
-  Engine Proxy:
-    - 1.0-migration
 
 github_repo: apollographql/engine-docs
 

@@ -20,6 +20,7 @@
 /docs/engine/setup-node.html /docs/references/engine-proxy.html#proxy-with-apollo-server
 /docs/engine/proxy/guides.html /docs/references/engine-proxy.html#Feature-configuration
 /docs/engine/proxy/troubleshooting.html /docs/references/engine-proxy.html#Troubleshooting
+/docs/engine/1.0-migration.html /docs/references/engine-proxy-1.0-migration.html
 
 # This is for an early version the Engine documentation.
 http://engine-docs.apollographql.com/docs/engine/* https://www.apollographql.com/docs/engine/:splat 301!

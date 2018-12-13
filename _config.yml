@@ -13,7 +13,6 @@ sidebar_categories:
     - features/error-tracking
     - features/alerts
   Engine Proxy:
-    - proxy/troubleshooting
     - 1.0-migration
 
 github_repo: apollographql/engine-docs

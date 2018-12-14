@@ -36,13 +36,13 @@ Once `apollo` is installed, the `apollo service:push` command is used to publish
 To publish the schema of a running server, use the `--endpoint` flag
 
 ```bash
-apollo service:push --key="<API_KEY>" --endpoint="https://example.com/graphql"
+apollo schema:publish --key="<API_KEY>" --endpoint="https://example.com/graphql"
 ```
 
 To publish the schema using an introspection or schema definition (SDL), use the `--localSchemaFile` flag
 
 ```bash
-apollo service:push --key="<API_KEY>" --localSchemaFile="path/to/schema.graphql"
+apollo schema:publish --key="<API_KEY>" --localSchemaFile="path/to/schema.graphql"
 ```
 
 <h2 id="history">Version history</h2>
